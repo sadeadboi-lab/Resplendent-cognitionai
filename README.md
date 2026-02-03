@@ -1,0 +1,2 @@
+# Resplendent-cognitionai
+Datacore baslod
